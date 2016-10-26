@@ -19,9 +19,9 @@ class UnitsController < ApplicationController
       end
     end
 
-     render json: {
+    render json: {
        unit_name: units.join,
        multiplication_factor: eval(factors.join).round(14)
-     }
+    }
   end
 end
