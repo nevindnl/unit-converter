@@ -2,7 +2,7 @@
 
 [Live][heroku]
 
-  [heroku]: http://googled.space
+  [heroku]: http://unit-converter.herokuapp.com
 
 ## Implementation
 * [Schema][schema]
